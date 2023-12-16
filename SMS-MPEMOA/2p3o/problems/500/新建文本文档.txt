@@ -1,0 +1,10 @@
+MPMOKP500_1:optimal solution DM1:850,optimal solution DM2:731,common solution:0
+MPMOKP500_2:optimal solution DM1:819,optimal solution DM2:864,common solution:0
+MPMOKP500_3:optimal solution DM1:734,optimal solution DM2:848,common solution:0
+MPMOKP500_4:optimal solution DM1:870,optimal solution DM2:867,common solution:0
+MPMOKP500_5:optimal solution DM1:895,optimal solution DM2:770,common solution:0
+MPMOKP500_6:optimal solution DM1:770,optimal solution DM2:732,common solution:0
+MPMOKP500_7:optimal solution DM1:799,optimal solution DM2:856,common solution:0
+MPMOKP500_8:optimal solution DM1:886,optimal solution DM2:924,common solution:0
+MPMOKP500_9:optimal solution DM1:944,optimal solution DM2:824,common solution:0
+MPMOKP500_10:optimal solution DM1:820,optimal solution DM2:842,common solution:0
